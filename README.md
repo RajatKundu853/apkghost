@@ -18,5 +18,8 @@ sudo chmod +x apkghost.sh
 
 ```
 
+## Special Thanks to https://github.com/DebadritaMahapatra 
+All credit for GUI Design on this project going to her .
+
 
 
